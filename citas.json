@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "canela",
+    "edad": "8 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "dermatitis"
+  },
+  {
+    "nombre": "miel",
+    "edad": "1 años",
+    "animal": "perro",
+    "color": "cafe",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "pelusa",
+    "edad": "5 años",
+    "animal": "gato",
+    "color": "gris",
+    "enfermedad": "lumbago"
+  }
+]
